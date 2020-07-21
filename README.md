@@ -4,7 +4,7 @@
 ##### What is Machine Learning 
 ##### Different types of Machine Learning (Supervised Learning, Unsupervised Learning, Reinforcement Learning and Semi-supervised Leaening)
 
-### <a href="http://deeplearningprojectshub.co/index.html/ML02.html">2. Introduction to TensorFlow</a>
+### <a href="http://deeplearningprojectshub.co/index.html/ML02.html">2. Introduction to TensorFlow</a>(<a href="https://github.com/hunnurjirao/Machine-Learning-With-TensorFlow/blob/master/Introduction_to_TensorFlow.ipynb">source code</a>)
 ##### Tensors, Placeholders and variables with examples 
 ##### Declaration and Initialization of variables and placeholders
 ##### Difference between the variables and placeholders
